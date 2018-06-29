@@ -1,0 +1,35 @@
+div {
+  height: 1px;
+  width: 200px;
+  /* padding: 50px; */
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+}
+
+#first-div {
+  background-color: #39cccc;
+  /* height: 200px;
+  width: 200px; */
+  /* padding: 50px;
+  border: 5px;
+  border-color: black;
+  border-style: solid; */
+}
+
+#second-div {
+  background-color: #ff4136;
+  /* padding: 50px;
+  border: 5px;
+  border-color: black;
+  border-style: solid; */
+  /* box-sizing: border-box; */
+}
+
+p {
+  overflow: hidden
+  background-color: #7fdbff;
+  height: 10px;
+  width: 200px;
+  
+}
